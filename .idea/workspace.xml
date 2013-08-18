@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" name="Default" comment="" />
+    <list default="true" id="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omikuji.html" afterPath="$PROJECT_DIR$/omikuji.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omikuji.js" afterPath="$PROJECT_DIR$/omikuji.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Omikuji.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/omikuji.html" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376354208341" ignored="false" />
-    <file path="/omikuji.js" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376354012763" ignored="false" />
-    <file path="/Dummy.txt" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376840238453" ignored="false" />
+    <file path="/omikuji.html" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376840953281" ignored="false" />
+    <file path="/omikuji.js" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376841245625" ignored="false" />
+    <file path="/Dummy.txt" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376840827359" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="omikuji.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="omikuji.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/omikuji.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="40" selection-start="99" selection-end="99" vertical-scroll-proportion="0.19391635">
+            <state line="8" column="28" selection-start="120" selection-end="120" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="omikuji.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="omikuji.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/omikuji.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="71" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+            <state line="18" column="28" selection-start="451" selection-end="451" vertical-scroll-proportion="0.25484765">
               <folding />
             </state>
           </provider>
@@ -51,6 +55,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
@@ -59,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/omikuji.js" />
         <option value="$PROJECT_DIR$/omikuji.html" />
+        <option value="$PROJECT_DIR$/omikuji.js" />
       </list>
     </option>
   </component>
@@ -154,19 +161,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Omikuji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Omikuji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="73" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="73" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="74" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="74" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="724" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="736" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="67" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="67" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.omikuji.html">
@@ -232,12 +265,12 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24948665" sideWeight="0.6695652" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24948665" sideWeight="0.6689775" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33102253" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -331,9 +364,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+    <entry file="file://$PROJECT_DIR$/omikuji.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="529" column="19" selection-start="8289" selection-end="8289" vertical-scroll-proportion="0.52537316" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/omikuji.js">
@@ -343,9 +378,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="529" column="19" selection-start="8289" selection-end="8289" vertical-scroll-proportion="0.52537316" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/omikuji.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="99" selection-end="99" vertical-scroll-proportion="0.19391635">
+        <state line="8" column="28" selection-start="120" selection-end="120" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omikuji.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="28" selection-start="451" selection-end="451" vertical-scroll-proportion="0.25484765">
           <folding />
         </state>
       </provider>
