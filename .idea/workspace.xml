@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omikuji.html" afterPath="$PROJECT_DIR$/omikuji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omikuji.js" afterPath="$PROJECT_DIR$/omikuji.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Omikuji.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/omikuji.html" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376840953281" ignored="false" />
     <file path="/omikuji.js" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376841245625" ignored="false" />
-    <file path="/Dummy.txt" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376840827359" ignored="false" />
+    <file path="/Dummy.txt" changelist="ceab83c2-deb4-4e80-a8fc-9ea373ccc976" time="1376841466765" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
       <file leaf-file-name="omikuji.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/omikuji.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="28" selection-start="451" selection-end="451" vertical-scroll-proportion="0.25484765">
+            <state line="12" column="30" selection-start="229" selection-end="229" vertical-scroll-proportion="0.21052632">
               <folding />
             </state>
           </provider>
@@ -176,19 +174,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="73" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="73" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="59" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="41" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="74" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="41" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="74" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="724" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="736" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="67" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="67" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="41" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="315" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="339" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="38" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="38" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
@@ -256,19 +254,25 @@
       <created>1376347671622</created>
       <updated>1376347671622</updated>
     </task>
+    <task id="LOCAL-00001" summary="おみくじにメッセージも対応させました。">
+      <created>1376841470218</created>
+      <updated>1376841470218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="5" width="1004" height="730" extended-state="0" />
+    <frame x="10" y="5" width="1004" height="730" extended-state="1" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24948665" sideWeight="0.6689775" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24948665" sideWeight="0.6689775" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33102253" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33102253" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -322,7 +326,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="おみくじにメッセージも対応させました。" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -336,6 +340,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="おみくじにメッセージも対応させました。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -392,7 +397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/omikuji.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="28" selection-start="451" selection-end="451" vertical-scroll-proportion="0.25484765">
+        <state line="12" column="30" selection-start="229" selection-end="229" vertical-scroll-proportion="0.21052632">
           <folding />
         </state>
       </provider>
